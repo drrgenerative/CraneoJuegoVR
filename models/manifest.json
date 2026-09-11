@@ -1,0 +1,452 @@
+[
+  {
+    "id": "FJ1254",
+    "name": "Left first lower molar tooth",
+    "bone": "teeth",
+    "file": "FJ1254.bin",
+    "vertices": 885,
+    "triangles": 1762,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1254_BP20238_FMA55704_Left first lower molar tooth.obj"
+  },
+  {
+    "id": "FJ1255",
+    "name": "Left first lower premolar tooth",
+    "bone": "teeth",
+    "file": "FJ1255.bin",
+    "vertices": 592,
+    "triangles": 1176,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1255_BP23586_FMA55693_Left first lower premolar tooth.obj"
+  },
+  {
+    "id": "FJ1256",
+    "name": "Left second lower molar tooth",
+    "bone": "teeth",
+    "file": "FJ1256.bin",
+    "vertices": 823,
+    "triangles": 1616,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1256_BP23842_FMA55703_Left second lower molar tooth.obj"
+  },
+  {
+    "id": "FJ1257",
+    "name": "Left second lower premolar tooth",
+    "bone": "teeth",
+    "file": "FJ1257.bin",
+    "vertices": 566,
+    "triangles": 1122,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1257_BP23362_FMA55692_Left second lower premolar tooth.obj"
+  },
+  {
+    "id": "FJ1258",
+    "name": "Left lower central incisor tooth",
+    "bone": "teeth",
+    "file": "FJ1258.bin",
+    "vertices": 461,
+    "triangles": 918,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1258_BP20208_FMA57143_Left lower central incisor tooth.obj"
+  },
+  {
+    "id": "FJ1259",
+    "name": "Left lower lateral incisor tooth",
+    "bone": "teeth",
+    "file": "FJ1259.bin",
+    "vertices": 483,
+    "triangles": 960,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1259_BP20093_FMA57141_Left lower lateral incisor tooth.obj"
+  },
+  {
+    "id": "FJ1260",
+    "name": "Left lower canine tooth",
+    "bone": "teeth",
+    "file": "FJ1260.bin",
+    "vertices": 592,
+    "triangles": 1180,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1260_BP23457_FMA55687_Left lower canine tooth.obj"
+  },
+  {
+    "id": "FJ1261",
+    "name": "Left first upper molar tooth",
+    "bone": "teeth",
+    "file": "FJ1261.bin",
+    "vertices": 1084,
+    "triangles": 2156,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1261_BP20252_FMA55699_Left first upper molar tooth.obj"
+  },
+  {
+    "id": "FJ1262",
+    "name": "Left first upper premolar tooth",
+    "bone": "teeth",
+    "file": "FJ1262.bin",
+    "vertices": 818,
+    "triangles": 1610,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1262_BP23649_FMA55690_Left first upper premolar tooth.obj"
+  },
+  {
+    "id": "FJ1263",
+    "name": "Left second upper molar tooth",
+    "bone": "teeth",
+    "file": "FJ1263.bin",
+    "vertices": 949,
+    "triangles": 1848,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1263_BP21638_FMA55700_Left second upper molar tooth.obj"
+  },
+  {
+    "id": "FJ1264",
+    "name": "Left second upper premolar tooth",
+    "bone": "teeth",
+    "file": "FJ1264.bin",
+    "vertices": 748,
+    "triangles": 1466,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1264_BP23393_FMA55691_Left second upper premolar tooth.obj"
+  },
+  {
+    "id": "FJ1265",
+    "name": "Left upper central incisor tooth",
+    "bone": "teeth",
+    "file": "FJ1265.bin",
+    "vertices": 646,
+    "triangles": 1288,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1265_BP21643_FMA55682_Left upper central incisor tooth.obj"
+  },
+  {
+    "id": "FJ1266",
+    "name": "Left upper lateral incisor tooth",
+    "bone": "teeth",
+    "file": "FJ1266.bin",
+    "vertices": 691,
+    "triangles": 1378,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1266_BP20094_FMA55683_Left upper lateral incisor tooth.obj"
+  },
+  {
+    "id": "FJ1267",
+    "name": "Left upper canine tooth",
+    "bone": "teeth",
+    "file": "FJ1267.bin",
+    "vertices": 698,
+    "triangles": 1392,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1267_BP23596_FMA55799_Left upper canine tooth.obj"
+  },
+  {
+    "id": "FJ1268",
+    "name": "Right first lower molar tooth",
+    "bone": "teeth",
+    "file": "FJ1268.bin",
+    "vertices": 889,
+    "triangles": 1762,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1268_BP20173_FMA55705_Right first lower molar tooth.obj"
+  },
+  {
+    "id": "FJ1269",
+    "name": "Right first lower premolar tooth",
+    "bone": "teeth",
+    "file": "FJ1269.bin",
+    "vertices": 592,
+    "triangles": 1180,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1269_BP23752_FMA55694_Right first lower premolar tooth.obj"
+  },
+  {
+    "id": "FJ1270",
+    "name": "Right second lower molar tooth",
+    "bone": "teeth",
+    "file": "FJ1270.bin",
+    "vertices": 818,
+    "triangles": 1620,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1270_BP23827_FMA55706_Right second lower molar tooth.obj"
+  },
+  {
+    "id": "FJ1271",
+    "name": "Right second lower premolar tooth",
+    "bone": "teeth",
+    "file": "FJ1271.bin",
+    "vertices": 567,
+    "triangles": 1124,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1271_BP23728_FMA55695_Right second lower premolar tooth.obj"
+  },
+  {
+    "id": "FJ1272",
+    "name": "Right lower central incisor tooth",
+    "bone": "teeth",
+    "file": "FJ1272.bin",
+    "vertices": 463,
+    "triangles": 920,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1272_BP20165_FMA57142_Right lower central incisor tooth.obj"
+  },
+  {
+    "id": "FJ1273",
+    "name": "Right lower lateral incisor tooth",
+    "bone": "teeth",
+    "file": "FJ1273.bin",
+    "vertices": 486,
+    "triangles": 958,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1273_BP23835_FMA57140_Right lower lateral incisor tooth.obj"
+  },
+  {
+    "id": "FJ1274",
+    "name": "Right lower canine tooth",
+    "bone": "teeth",
+    "file": "FJ1274.bin",
+    "vertices": 591,
+    "triangles": 1178,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1274_BP23629_FMA55686_Right lower canine tooth.obj"
+  },
+  {
+    "id": "FJ1275",
+    "name": "Right second upper molar tooth",
+    "bone": "teeth",
+    "file": "FJ1275.bin",
+    "vertices": 961,
+    "triangles": 1850,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1275_BP19601_FMA55697_Right second upper molar tooth.obj"
+  },
+  {
+    "id": "FJ1276",
+    "name": "Right first upper molar tooth",
+    "bone": "teeth",
+    "file": "FJ1276.bin",
+    "vertices": 1099,
+    "triangles": 2156,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1276_BP20230_FMA55698_Right first upper molar tooth.obj"
+  },
+  {
+    "id": "FJ1277",
+    "name": "Right first upper premolar tooth",
+    "bone": "teeth",
+    "file": "FJ1277.bin",
+    "vertices": 816,
+    "triangles": 1610,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1277_BP23473_FMA55689_Right first upper premolar tooth.obj"
+  },
+  {
+    "id": "FJ1278",
+    "name": "Right second upper premolar tooth",
+    "bone": "teeth",
+    "file": "FJ1278.bin",
+    "vertices": 748,
+    "triangles": 1466,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1278_BP23721_FMA55688_Right second upper premolar tooth.obj"
+  },
+  {
+    "id": "FJ1279",
+    "name": "Right upper central incisor tooth",
+    "bone": "teeth",
+    "file": "FJ1279.bin",
+    "vertices": 647,
+    "triangles": 1288,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1279_BP22758_FMA55681_Right upper central incisor tooth.obj"
+  },
+  {
+    "id": "FJ1280",
+    "name": "Right upper lateral incisor tooth",
+    "bone": "teeth",
+    "file": "FJ1280.bin",
+    "vertices": 686,
+    "triangles": 1368,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1280_BP23883_FMA55680_Right upper lateral incisor tooth.obj"
+  },
+  {
+    "id": "FJ1281",
+    "name": "Right upper canine tooth",
+    "bone": "teeth",
+    "file": "FJ1281.bin",
+    "vertices": 698,
+    "triangles": 1392,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1281_BP23581_FMA55798_Right upper canine tooth.obj"
+  },
+  {
+    "id": "FJ6309",
+    "name": "Ethmoid",
+    "bone": "ethmoid",
+    "file": "FJ6309.bin",
+    "vertices": 11662,
+    "triangles": 22348,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6309_BP23248_FMA52740_Ethmoid.obj"
+  },
+  {
+    "id": "FJ6310",
+    "name": "Frontal bone",
+    "bone": "frontal",
+    "file": "FJ6310.bin",
+    "vertices": 8399,
+    "triangles": 14448,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6310_BP22997_FMA52734_Frontal bone.obj"
+  },
+  {
+    "id": "FJ6374",
+    "name": "Left inferior nasal concha",
+    "bone": "concha",
+    "file": "FJ6374.bin",
+    "vertices": 477,
+    "triangles": 738,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6374_BP22607_FMA54738_Left inferior nasal concha.obj"
+  },
+  {
+    "id": "FJ6376",
+    "name": "Left lacrimal bone",
+    "bone": "lacrimal",
+    "file": "FJ6376.bin",
+    "vertices": 390,
+    "triangles": 634,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6376_BP23042_FMA53646_Left lacrimal bone.obj"
+  },
+  {
+    "id": "FJ6380",
+    "name": "Left maxilla",
+    "bone": "maxilla",
+    "file": "FJ6380.bin",
+    "vertices": 3460,
+    "triangles": 5086,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6380_BP23755_FMA53650_Left maxilla.obj"
+  },
+  {
+    "id": "FJ6383",
+    "name": "Left nasal bone",
+    "bone": "nasal",
+    "file": "FJ6383.bin",
+    "vertices": 295,
+    "triangles": 500,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6383_BP23333_FMA53648_Left nasal bone.obj"
+  },
+  {
+    "id": "FJ6384",
+    "name": "Left palatine bone",
+    "bone": "palatine",
+    "file": "FJ6384.bin",
+    "vertices": 1137,
+    "triangles": 1844,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6384_BP23315_FMA53656_Left palatine bone.obj"
+  },
+  {
+    "id": "FJ6385",
+    "name": "Left parietal bone",
+    "bone": "parietal",
+    "file": "FJ6385.bin",
+    "vertices": 8343,
+    "triangles": 13152,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6385_BP23158_FMA52789_Left parietal bone.obj"
+  },
+  {
+    "id": "FJ6391",
+    "name": "Left temporal bone",
+    "bone": "temporal",
+    "file": "FJ6391.bin",
+    "vertices": 2973,
+    "triangles": 4908,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6391_BP23760_FMA52739_Left temporal bone.obj"
+  },
+  {
+    "id": "FJ6397",
+    "name": "Left zygomatic bone",
+    "bone": "zygomatic",
+    "file": "FJ6397.bin",
+    "vertices": 972,
+    "triangles": 1610,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6397_BP23337_FMA52893_Left zygomatic bone.obj"
+  },
+  {
+    "id": "FJ6399",
+    "name": "Mandible",
+    "bone": "mandible",
+    "file": "FJ6399.bin",
+    "vertices": 2824,
+    "triangles": 5544,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6399_BP22817_FMA52748_Mandible.obj"
+  },
+  {
+    "id": "FJ6411",
+    "name": "Occipital bone",
+    "bone": "occipital",
+    "file": "FJ6411.bin",
+    "vertices": 6947,
+    "triangles": 12382,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6411_BP23972_FMA52735_Occipital bone.obj"
+  },
+  {
+    "id": "FJ6463",
+    "name": "Right inferior nasal concha",
+    "bone": "concha",
+    "file": "FJ6463.bin",
+    "vertices": 570,
+    "triangles": 714,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6463_BP23235_FMA54737_Right inferior nasal concha.obj"
+  },
+  {
+    "id": "FJ6465",
+    "name": "Right lacrimal bone",
+    "bone": "lacrimal",
+    "file": "FJ6465.bin",
+    "vertices": 348,
+    "triangles": 554,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6465_BP23129_FMA53645_Right lacrimal bone.obj"
+  },
+  {
+    "id": "FJ6468",
+    "name": "Right maxilla",
+    "bone": "maxilla",
+    "file": "FJ6468.bin",
+    "vertices": 3549,
+    "triangles": 5358,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6468_BP23661_FMA53649_Right maxilla.obj"
+  },
+  {
+    "id": "FJ6470",
+    "name": "Right nasal bone",
+    "bone": "nasal",
+    "file": "FJ6470.bin",
+    "vertices": 275,
+    "triangles": 468,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6470_BP23260_FMA53647_Right nasal bone.obj"
+  },
+  {
+    "id": "FJ6471",
+    "name": "Right palatine bone",
+    "bone": "palatine",
+    "file": "FJ6471.bin",
+    "vertices": 1162,
+    "triangles": 1868,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6471_BP24091_FMA53655_Right palatine bone.obj"
+  },
+  {
+    "id": "FJ6472",
+    "name": "Right parietal bone",
+    "bone": "parietal",
+    "file": "FJ6472.bin",
+    "vertices": 7985,
+    "triangles": 12944,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6472_BP23064_FMA52788_Right parietal bone.obj"
+  },
+  {
+    "id": "FJ6478",
+    "name": "Right temporal bone",
+    "bone": "temporal",
+    "file": "FJ6478.bin",
+    "vertices": 3065,
+    "triangles": 4904,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6478_BP23685_FMA52738_Right temporal bone.obj"
+  },
+  {
+    "id": "FJ6483",
+    "name": "Right zygomatic bone",
+    "bone": "zygomatic",
+    "file": "FJ6483.bin",
+    "vertices": 910,
+    "triangles": 1508,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6483_BP23110_FMA52892_Right zygomatic bone.obj"
+  },
+  {
+    "id": "FJ6485",
+    "name": "Sphenoid bone",
+    "bone": "sphenoid",
+    "file": "FJ6485.bin",
+    "vertices": 4920,
+    "triangles": 8034,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6485_BP23082_FMA52736_Sphenoid bone.obj"
+  },
+  {
+    "id": "FJ6486",
+    "name": "Vomer",
+    "bone": "vomer",
+    "file": "FJ6486.bin",
+    "vertices": 3559,
+    "triangles": 7102,
+    "source": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ6486_BP22288_FMA9710_Vomer.obj"
+  }
+]

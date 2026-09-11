@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#08121d"><meta name="description" content="Explora los huesos del cráneo en 3D y realidad virtual. Un laboratorio interactivo para grado décimo."><title>CráneoVR · Laboratorio de anatomía</title><link rel="icon" type="image/svg+xml" href="./favicon.svg">  <script type="module" crossorigin src="./assets/index-C-i0ExY-.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-B_ZnRNNx.css">
+</head>
+<body>
+<div id="app">
+  <header class="header">
+    <a class="brand" href="./" aria-label="CráneoVR, inicio"><span class="brand-icon" aria-hidden="true">◈</span><span>Cráneo<span class="cyan">VR</span><small>LABORATORIO DE ANATOMÍA</small></span></a>
+    <nav aria-label="Navegación principal"><button class="nav active" data-action="explore">Explorar</button><button class="nav" data-action="route">Mi recorrido <span id="nav-progress">0/3</span></button><button class="nav" data-action="report">Resultados</button></nav>
+    <div class="header-end"><span class="grade">BIOLOGÍA · 10°</span><button class="button vr-button" id="vr-button" data-action="vr"><span aria-hidden="true">▣</span> Entrar en VR</button></div>
+  </header>
+  <main>
+    <section class="intro"><div><div class="eyebrow"><span class="status-dot"></span> EXPEDICIÓN 01 · EL CRÁNEO HUMANO</div><h1>Descubre lo que hay <span>debajo de la piel.</span></h1><p>Explora cada hueso. Conecta las piezas. Pon a prueba lo que sabes.</p></div><button class="help-link" data-action="help">ⓘ <span>Cómo explorar</span></button></section>
+    <div class="workspace">
+      <aside class="catalog panel" aria-label="Catálogo de huesos"><div class="panel-heading"><h2>Atlas del cráneo</h2><span class="pill">22 huesos</span></div><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar un hueso…" aria-label="Buscar un hueso"></label><div class="filter-tabs"><button data-filter="all" class="active">Todos</button><button data-filter="Neurocráneo">Neurocráneo</button><button data-filter="Cara">Cara</button></div><div id="bone-list" class="bone-list"></div><div class="catalog-footer"><span class="status-dot"></span><span id="explored-count">0 de 14 tipos explorados</span></div></aside>
+      <section class="viewer-panel panel" aria-label="Visor anatómico 3D">
+        <div class="viewer-top"><span class="eyebrow"><span class="status-dot"></span> MODELO INTERACTIVO 3D</span><span class="view-badge" id="view-label">Vista libre</span></div>
+        <div id="viewport"><div class="loading" id="loading"><div class="loader"></div><strong>Preparando tu laboratorio</strong><span id="loading-progress">Cargando anatomía 3D…</span></div><div id="model-label" class="model-label" hidden></div></div>
+        <div class="view-controls" aria-label="Vistas del cráneo"><button data-view="front" title="Vista frontal">Frontal</button><button data-view="side" title="Vista lateral">Lateral</button><button data-view="back" title="Vista posterior">Posterior</button><button data-view="bottom" title="Vista inferior">Inferior</button></div>
+        <div class="model-tools"><button id="explode" data-action="explode" aria-pressed="false"><span aria-hidden="true">◇</span> Separar huesos</button><span class="tool-divider"></span><button id="isolate" data-action="isolate" aria-pressed="false"><span aria-hidden="true">◎</span> Aislar</button><button data-action="reset-view" title="Restablecer vista"><span aria-hidden="true">↻</span><span class="reset-text"> Restablecer</span></button></div>
+        <div class="viewer-caption"><span>↔ Arrastra para girar</span><span>⊕ Amplía con dos dedos o la rueda</span></div>
+      </section>
+      <aside class="detail panel" id="detail" aria-label="Información y actividades" aria-live="polite"></aside>
+    </div>
+    <section class="journey panel" aria-label="Checkpoints del recorrido"><div class="journey-title"><span class="eyebrow">TU EXPEDICIÓN</span><h2>Pequeños pasos.<br>Grandes descubrimientos.</h2><span id="journey-count">0 / 3 checkpoints</span></div><div id="journey-steps" class="journey-steps"></div></section>
+    <footer><span>CráneoVR <span class="footer-dot">·</span> Aprende desde otra perspectiva.</span><button data-action="credits">Modelo y fuentes ↗</button><span id="save-status">Progreso guardado en este navegador</span></footer>
+  </main>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <dialog id="dialog"><div class="dialog-heading"><span class="eyebrow">CRÁNEOVR · LABORATORIO</span><button data-action="close-dialog" aria-label="Cerrar">✕</button></div><div id="dialog-content"></div></dialog>
+</div>
+</body></html>
